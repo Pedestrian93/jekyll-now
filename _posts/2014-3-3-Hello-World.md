@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: First Blog
 ---
 
-第一篇博客
+hello, this is my first blog 
+
