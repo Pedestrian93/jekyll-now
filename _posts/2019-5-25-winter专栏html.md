@@ -1,9 +1,7 @@
 ---
 layout: post
-title: First Blog
+title: winter重学前端笔记（html部分）
 ---
-
-## winter重学前端笔记（html部分）
 * abbr 表示缩写
 ````
 <abbr title="World Wide Web">WWW</abbr>.
