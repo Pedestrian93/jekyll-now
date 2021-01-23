@@ -1,5 +1,3 @@
-# Best practice of RESTful api
-
 ### Rules
 
 1.1 动词 + 宾语， `GET /name` 
